@@ -1,6 +1,8 @@
 # overdisp
 A direct command to detect overdispersion in count-data models Use overdisp With STATA 19
 
+https://www.youtube.com/watch?v=8pFNMYWpRUU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
